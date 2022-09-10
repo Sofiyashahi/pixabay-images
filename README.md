@@ -7,6 +7,7 @@ For loading images from url, I use retrofit library.
 And glide library for images.
 
 default config:
+
          minSdk 16
         targetSdk 32
         versionCode 1
